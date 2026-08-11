@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "model_id": "sense-voice-int8",
+  "archive_sha256": "171d611fe5d353a50bbb741b6f3ef42559b1565685684e9aa888ef563ba3e8a4",
+  "files": {
+    "._model.int8.onnx": "4d4508bde853da822733e61a3b54084d09738051893392acc1bfea9c2415b39f",
+    "._tokens.txt": "4d4508bde853da822733e61a3b54084d09738051893392acc1bfea9c2415b39f",
+    "model.int8.onnx": "c71f0ce00bec95b07744e116345e33d8cbbe08cef896382cf907bf4b51a2cd51",
+    "tokens.txt": "5952a0f7c93a8dc7b8d122dc9ea0963bcffc0c2ecc28c33d450cf5233ab1244f"
+  }
+}
